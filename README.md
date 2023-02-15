@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Matt!
 - 🔭 I’m currently working on an Edinburgh College course desgined for entry into coding
 - 🌱 I’m currently learning about all Github has to offer and how it functions
 <!--
